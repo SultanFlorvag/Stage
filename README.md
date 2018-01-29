@@ -1,6 +1,8 @@
 # Stage
 ###### Steffen Vandegaer & Michiel Vanbergen
 
+# ![picture alt](http://www.verruimjehorizon.be/sites/default/files/hogeschool_ucll_0.png "UCLL")
+
 ### Checklist
 ##### Tijdens de stage periode
 
