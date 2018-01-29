@@ -1,7 +1,12 @@
 # Stage
 ###### Steffen Vandegaer & Michiel Vanbergen
 
-![picture alt](Project%20Docs/Logo's.svg "UCLL")
+![picture alt](Project%20Docs/Logo's.svg "Faros & UCLL")
+
+
+### Opdracht
+[Opdrachtomschrijving](Project%20Docs/Opdrachtomschrijving%20Lego%20sorting.pptx)
+
 
 ### Checklist
 ##### Tijdens de stage periode
@@ -33,6 +38,7 @@
 - [ ] Indienen projectstagerapport ( Stagebegeleider, Bedrijfspromotor & Secretariaat )
 - [ ] Proefvoordracht
 - [ ] Voordracht
+
 
 ### Tijdslijn
 ##### Tijdens de stage periode
