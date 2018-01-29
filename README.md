@@ -1,7 +1,7 @@
 # Stage
 ###### Steffen Vandegaer & Michiel Vanbergen
 
-# ![picture alt](Project%20Docs/Logo's.svg "UCLL")
+![picture alt](Project%20Docs/Logo's.svg "UCLL")
 
 ### Checklist
 ##### Tijdens de stage periode
