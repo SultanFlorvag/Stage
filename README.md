@@ -1,10 +1,11 @@
 # Stage
 ###### Steffen Vandegaer & Michiel Vanbergen
 
-![picture alt](Project%20Docs/Logo's.svg "Faros & UCLL")
-
 
 ### Opdracht
+
+![picture alt](Project%20Docs/Logo's.svg "Faros & UCLL")
+
 [Opdrachtomschrijving](Project%20Docs/Opdrachtomschrijving%20Lego%20sorting.pptx)
 
 
