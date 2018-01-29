@@ -4,7 +4,7 @@
 ### Checklist
 ##### Tijdens de stage periode
 
-- [ ] [Risico‐analyse invullen en indienen](Stage Docs/Risicoanalyse_2017-2018.docx)
+- [ ] [Risico‐analyse invullen en indienen](StageDocs/Risicoanalyse_2017-2018.docx)
 - [ ] [Indienen weekrapport week 1 ( Stagebegeleider, Stagepromotor & KULoket )](Stage Docs/WekelijksRapport_2017-2018.docx)
 - [ ] Indienen weekrapport week 2
 - [ ] [Indienen opdrachtomschrijving ( Stagebegeleider & KULoket )](Stage Docs/Opdrachtomschrijving_2017-2018.pdf)
