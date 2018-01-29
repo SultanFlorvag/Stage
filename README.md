@@ -4,10 +4,10 @@
 ### Checklist
 ##### Tijdens de stage periode
 
-- [ ] [Risico‐analyse invullen en indienen](Docs/Risicoanalyse_2017-2018.docx)
-- [ ] [Indienen weekrapport week 1 ( Stagebegeleider, Stagepromotor & KULoket )](Docs/WekelijksRapport_2017-2018.docx)
+- [ ] [Risico‐analyse invullen en indienen](Stage Docs/Risicoanalyse_2017-2018.docx)
+- [ ] [Indienen weekrapport week 1 ( Stagebegeleider, Stagepromotor & KULoket )](Stage Docs/WekelijksRapport_2017-2018.docx)
 - [ ] Indienen weekrapport week 2
-- [ ] [Indienen opdrachtomschrijving ( Stagebegeleider & KULoket )](Docs/Opdrachtomschrijving_2017-2018.pdf)
+- [ ] [Indienen opdrachtomschrijving ( Stagebegeleider & KULoket )](Stage Docs/Opdrachtomschrijving_2017-2018.pdf)
 - [ ] Indienen voorlopige versie stagerapport tijdens het eerste stagebezoek ( Stagebegeleider ) 
 - [ ] Indienen weekrapport week 3
 - [ ] Indienen weekrapport week 4
@@ -15,7 +15,7 @@
 - [ ] Indienen weekrapport week 6
 - [ ] Indienen voorlopige versie stagerapport tijdens het tweede stagebezoek ( Stagebegeleider ) 
 - [ ] Indienen weekrapport week 7
-- [ ] [Indienen abstract na overleg met Stagebegeleider & Bedrijfspromotor ( Docent communicatie )](Docs/Model_abstract.doc)
+- [ ] [Indienen abstract na overleg met Stagebegeleider & Bedrijfspromotor ( Docent communicatie )](Stage Docs/Model_abstract.doc)
 - [ ] Indienen weekrapport week 8
 - [ ] Indienen abstract ( KULoket ) 
 - [ ] Indienen weekrapport week 9
