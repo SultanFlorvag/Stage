@@ -4,7 +4,7 @@
 ### Tijdslijn
 
 | Datum / Week | Actie | Initiatiefnemer | Betrokken personen |
-| :---: | --- | --- | --- |
+| --- | --- | --- | --- |
 | 05/02/2018 | Start stage | Student | Bedrijfspromotor |
 | `Week 3 - 5` | Eerste stagebezoek | Stagebegeleider | Student, Bedrijfspromotor |
 | `Week 7 - 8` | Eerste terugkomdag | Docent communicatie | Student |
