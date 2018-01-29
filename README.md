@@ -8,7 +8,7 @@
 - [ ] Indienen weekrapport week 1 ( Stagebegeleider, Stagepromotor & KULoket )
 - [ ] Indienen weekrapport week 2
 - [ ] Indienen opdrachtomschrijving ( Stagebegeleider & KULoket )
-- [ ] Indienen voorlopige versie stagerapport ( Inleiding & Voorstelling bedrijf) tijdens het eerste stagebezoek ( Stagebegeleider ) 
+- [ ] Indienen voorlopige versie stagerapport tijdens het eerste stagebezoek ( Stagebegeleider ) 
 - [ ] Indienen weekrapport week 3
 - [ ] Indienen weekrapport week 4
 - [ ] Indienen weekrapport week 5
