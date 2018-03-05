@@ -14,11 +14,11 @@
 
 - [ ] [Risico‐analyse invullen en indienen](Stage%20Docs/Risicoanalyse_2017-2018.docx)
 - [X] [Indienen weekrapport week 1 ( Stagebegeleider, Stagepromotor & KULoket )](Stage%20Docs/WekelijksRapport_2017-2018.docx)
-- [ ] Indienen weekrapport week 2
-- [ ] [Indienen opdrachtomschrijving ( Stagebegeleider & KULoket )](Stage%20Docs/Opdrachtomschrijving_2017-2018.pdf)
-- [ ] Indienen voorlopige versie stagerapport tijdens het eerste stagebezoek ( Stagebegeleider ) 
-- [ ] Indienen weekrapport week 3
-- [ ] Indienen weekrapport week 4
+- [X] Indienen weekrapport week 2
+- [X] [Indienen opdrachtomschrijving ( Stagebegeleider & KULoket )](Stage%20Docs/Opdrachtomschrijving_2017-2018.pdf)
+- [X] Indienen voorlopige versie stagerapport tijdens het eerste stagebezoek ( Stagebegeleider ) 
+- [X] Indienen weekrapport week 3
+- [X] Indienen weekrapport week 4
 - [ ] Indienen weekrapport week 5
 - [ ] Indienen weekrapport week 6
 - [ ] Indienen voorlopige versie stagerapport tijdens het tweede stagebezoek ( Stagebegeleider ) 
