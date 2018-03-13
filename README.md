@@ -19,7 +19,7 @@
 - [X] Indienen voorlopige versie stagerapport tijdens het eerste stagebezoek ( Stagebegeleider ) 
 - [X] Indienen weekrapport week 3
 - [X] Indienen weekrapport week 4
-- [ ] Indienen weekrapport week 5
+- [X] Indienen weekrapport week 5
 - [ ] Indienen weekrapport week 6
 - [ ] Indienen voorlopige versie stagerapport tijdens het tweede stagebezoek ( Stagebegeleider ) 
 - [ ] Indienen weekrapport week 7
