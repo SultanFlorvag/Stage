@@ -21,14 +21,14 @@
 - [X] Indienen weekrapport week 4
 - [X] Indienen weekrapport week 5
 - [X] Indienen weekrapport week 6
-- [ ] Indienen voorlopige versie stagerapport tijdens het tweede stagebezoek ( Stagebegeleider ) 
+- [X] Indienen voorlopige versie stagerapport tijdens het tweede stagebezoek ( Stagebegeleider ) 
 - [X] Indienen weekrapport week 7
 - [X] [Indienen abstract na overleg met Stagebegeleider & Bedrijfspromotor ( Docent communicatie )](Stage%20Docs/Model_abstract.doc)
 - [X] Indienen weekrapport week 8
-- [ ] Indienen abstract ( KULoket ) 
+- [X] Indienen abstract ( KULoket ) 
 - [X] Indienen weekrapport week 9
 - [X] Indienen weekrapport week 10
-- [ ] Indienen weekrapport week 11
+- [X] Indienen weekrapport week 11
 - [ ] Indienen weekrapport week 12
 - [ ] Indienen stagerapport ( Stagebegeleider & Bedrijfspromotor )
 - [ ] Indienen nagekeken stagerapport ( Docent communicatie )
