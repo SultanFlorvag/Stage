@@ -29,16 +29,16 @@
 - [X] Indienen weekrapport week 9
 - [X] Indienen weekrapport week 10
 - [X] Indienen weekrapport week 11
-- [ ] Indienen weekrapport week 12
-- [ ] Indienen stagerapport ( Stagebegeleider & Bedrijfspromotor )
-- [ ] Indienen nagekeken stagerapport ( Docent communicatie )
+- [X] Indienen weekrapport week 12
+- [X] Indienen stagerapport ( Stagebegeleider & Bedrijfspromotor )
+- [X] Indienen nagekeken stagerapport ( Docent communicatie )
 ##### Na de stage periode
 
-- [ ] Indienen titelbladen ( Mediatheek & KULoket )
-- [ ] Indienen benodigde documenten ( KULoket )
-- [ ] Indienen projectstagerapport ( Stagebegeleider, Bedrijfspromotor & Secretariaat )
-- [ ] Proefvoordracht
-- [ ] Voordracht
+- [X] Indienen titelbladen ( Mediatheek & KULoket )
+- [X] Indienen benodigde documenten ( KULoket )
+- [X] Indienen projectstagerapport ( Stagebegeleider, Bedrijfspromotor & Secretariaat )
+- [X] Proefvoordracht
+- [X] Voordracht
 
 
 ### Tijdslijn
